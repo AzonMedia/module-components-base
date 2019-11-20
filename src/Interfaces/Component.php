@@ -2,7 +2,7 @@
 
 namespace GuzabaPlatform\Components\Base\Interfaces;
 
-interface Component
+interface ComponentInterface
 {
     public function get_name() : string ;
 
