@@ -1,5 +1,5 @@
 {
-    "name": "azonmedia/components-base",
+    "name": "guzaba-platform/components-base",
     "type": "library",
     "description": "Components interfaces",
     "keywords": ["components"],
@@ -15,7 +15,8 @@
     ],
     "require": {
         "php": ">=7.2.0",
-        "azonmedia/tags-base": "dev-master"
+        "azonmedia/tags-base": "dev-master",
+        "composer/composer": "^1.9"
     },
     "autoload": {
         "psr-4": {
