@@ -21,4 +21,10 @@ interface ComponentInterface
     public static function get_vendor_name() : string ;
 
     public static function get_vendor_url() : string ;
+
+    public static function get_error_reference_url() : string ;
+
+    public static function get_composer_file() : string ;
+
+    public static function get_composer_package_name() : string ;
 }
