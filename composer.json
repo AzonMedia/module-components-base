@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=7.2.0",
-        "azonmedia/tags-base": "dev-master",
+        "azonmedia/components": "dev-master",
         "composer/composer": "^1.9"
     },
     "autoload": {
