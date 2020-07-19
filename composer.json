@@ -4,7 +4,7 @@
     "description": "Components interfaces",
     "keywords": ["components"],
     "homepage": "https://github.com/AzonMedia/module-components-base",
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "authors": [
         {
             "name": "Vesko Kenashkov",
